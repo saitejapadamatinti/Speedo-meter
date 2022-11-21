@@ -1,0 +1,40 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  color: #fff;
+}
+.main-container {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img-1 {
+  width: 80%;
+}
+.main-heading {
+  color: #fff;
+  margin-bottom: 20px;
+}
+.button {
+  font-size: 18px;
+  padding: 8px;
+  border-radius: 5px;
+  margin: 10px;
+}
+.button-1 {
+  background-color: #0b69ff;
+  border: none;
+}
+.button-2 {
+  background-color: transparent;
+  border: 1px solid #fff;
+}
+.para {
+  margin-bottom: 20px;
+}
+.head-1 {
+  font-style: italic;
+}
